@@ -12,7 +12,6 @@
     <a href="#📝-licença">Licença</a>
   </p>
 
----
 
 ## 🚀 1ª Página
 
@@ -22,7 +21,6 @@ Além do que foi pedido coloquei uma transição sobre os links.
 
 O link Email faz com que abra para enviar email para o cadastrado, e o telefone para que faça ligação também.
 
----
 
 ## 📝 Licença
 
