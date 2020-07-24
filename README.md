@@ -16,8 +16,9 @@
 ## 🚀 1ª Página
 
 Além do que foi pedido coloquei uma transição sobre os links.
-
-<img src="https://media.giphy.com/media/KHKaBriTX9zKib8pIh/giphy.gif" alt="Gif" width="800px">
+<div align="center">
+<img src="https://media.giphy.com/media/KHKaBriTX9zKib8pIh/giphy.gif" alt="Gif" width="500px" >
+</div>
 
 O link Email faz com que abra para enviar email para o cadastrado, e o telefone para que faça ligação também.
 
