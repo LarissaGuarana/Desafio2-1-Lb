@@ -22,6 +22,26 @@ Além do que foi pedido coloquei uma transição sobre os links.
 
 O link Email faz com que abra para enviar email para o cadastrado, e o telefone para que faça ligação também.
 
+#
+
+<h3 align="center">
+  Desafio 2-2: Página de Descrição
+</h3>
+
+<p align="center">
+    <a href="https://github.com/rocketseat-education/bootcamp-launchbase-desafios-02/blob/master/desafios/02-2-pagina-descricao.md">Sobre o desafio</a> |
+    <a href="#🚀-1ª-página">2ª Página</a> |
+    <a href="#📝-licença">Licença</a>
+  </p>
+
+
+## 🚀 2ª Página
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/66276291/122144648-45354780-ce2a-11eb-96dc-720050673211.gif" alt="Gif" width="500px" >
+</div>
+
+
 ## 🛠️ Tecnologias
 
 - HTML
